@@ -1,0 +1,20 @@
+{
+  "id": "appendices/appendix-a",
+  "title": "Appendix I – Stage-by-Stage Development Checklists (Table Format)",
+  "description": "Pre-Construction",
+  "source": "@site/docs/appendices/appendix-a.md",
+  "sourceDirName": "appendices",
+  "slug": "/appendices/appendix-a",
+  "permalink": "/maldives-guide/docs/appendices/appendix-a",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/appendices/appendix-a.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "guideSidebar",
+  "previous": {
+    "title": "Chapter 12: Post-Construction Management and Asset Longevity",
+    "permalink": "/maldives-guide/docs/part4/chapter12"
+  }
+}

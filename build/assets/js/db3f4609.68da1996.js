@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaldives_guide=self.webpackChunkmaldives_guide||[]).push([[6245],{8482:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/maldives-guide/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

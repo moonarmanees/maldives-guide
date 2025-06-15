@@ -1,0 +1,20 @@
+{
+  "id": "foreword",
+  "title": "Foreword",
+  "description": "This guide serves as a practical roadmap for anyone planning, managing, or overseeing the development of a resort in the Maldives—whether you are an owner, investor, consultant, architect, engineer, or contractor. Drawing on insights from seasoned professionals in both the private sector and public institutions—including policymakers, legal advisors, environmental experts, and financial planners—this guide presents a step-by-step overview of the resort development process. It spans from land acquisition through regulatory approvals, design and construction, all the way to the official resort opening and operational handover.",
+  "source": "@site/docs/foreword.md",
+  "sourceDirName": ".",
+  "slug": "/foreword",
+  "permalink": "/maldives-guide/docs/foreword",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/foreword.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "guideSidebar",
+  "next": {
+    "title": "Chapter 1: Maldives Resort Development – Market Overview and Opportunities",
+    "permalink": "/maldives-guide/docs/part1/chapter1"
+  }
+}

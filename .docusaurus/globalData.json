@@ -1,0 +1,102 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/maldives-guide/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/maldives-guide/docs",
+          "mainDocId": "foreword",
+          "docs": [
+            {
+              "id": "appendices/appendix-a",
+              "path": "/maldives-guide/docs/appendices/appendix-a",
+              "sidebar": "guideSidebar"
+            },
+            {
+              "id": "foreword",
+              "path": "/maldives-guide/docs/foreword",
+              "sidebar": "guideSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/maldives-guide/docs/intro"
+            },
+            {
+              "id": "part1/chapter1",
+              "path": "/maldives-guide/docs/part1/chapter1",
+              "sidebar": "guideSidebar"
+            },
+            {
+              "id": "part1/chapter2",
+              "path": "/maldives-guide/docs/part1/chapter2",
+              "sidebar": "guideSidebar"
+            },
+            {
+              "id": "part2/chapter3",
+              "path": "/maldives-guide/docs/part2/chapter3",
+              "sidebar": "guideSidebar"
+            },
+            {
+              "id": "part2/chapter4",
+              "path": "/maldives-guide/docs/part2/chapter4",
+              "sidebar": "guideSidebar"
+            },
+            {
+              "id": "part2/chapter5",
+              "path": "/maldives-guide/docs/part2/chapter5",
+              "sidebar": "guideSidebar"
+            },
+            {
+              "id": "part2/chapter6",
+              "path": "/maldives-guide/docs/part2/chapter6",
+              "sidebar": "guideSidebar"
+            },
+            {
+              "id": "part3/chapter7",
+              "path": "/maldives-guide/docs/part3/chapter7",
+              "sidebar": "guideSidebar"
+            },
+            {
+              "id": "part3/chapter8",
+              "path": "/maldives-guide/docs/part3/chapter8",
+              "sidebar": "guideSidebar"
+            },
+            {
+              "id": "part3/chapter9",
+              "path": "/maldives-guide/docs/part3/chapter9",
+              "sidebar": "guideSidebar"
+            },
+            {
+              "id": "part4/chapter10",
+              "path": "/maldives-guide/docs/part4/chapter10",
+              "sidebar": "guideSidebar"
+            },
+            {
+              "id": "part4/chapter11",
+              "path": "/maldives-guide/docs/part4/chapter11",
+              "sidebar": "guideSidebar"
+            },
+            {
+              "id": "part4/chapter12",
+              "path": "/maldives-guide/docs/part4/chapter12",
+              "sidebar": "guideSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "guideSidebar": {
+              "link": {
+                "path": "/maldives-guide/docs/foreword",
+                "label": "Foreword"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

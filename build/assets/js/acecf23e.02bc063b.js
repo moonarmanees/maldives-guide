@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmaldives_guide=self.webpackChunkmaldives_guide||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/maldives-guide/blog","blogTitle":"Blog","authorsListPath":"/maldives-guide/blog/authors"}')}}]);

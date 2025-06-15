@@ -1,0 +1,24 @@
+{
+  "id": "part3/chapter7",
+  "title": "Chapter 7: Contractor Procurement and Management",
+  "description": "A multi-stage tendering process is required, encompassing pre-qualification, proposal submission, bid evaluation (with risk adjustments), clarification/negotiation, and contract award/finalization.",
+  "source": "@site/docs/part3/chapter7.md",
+  "sourceDirName": "part3",
+  "slug": "/part3/chapter7",
+  "permalink": "/maldives-guide/docs/part3/chapter7",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/part3/chapter7.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "guideSidebar",
+  "previous": {
+    "title": "Chapter 6: Project Financing Strategies",
+    "permalink": "/maldives-guide/docs/part2/chapter6"
+  },
+  "next": {
+    "title": "Chapter 8: Construction and Development Works",
+    "permalink": "/maldives-guide/docs/part3/chapter8"
+  }
+}
